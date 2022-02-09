@@ -1,7 +1,5 @@
 from class_stack import Stack
-s = Stack()
-s.abc = 4
-print(s.abc)
+
 def balans(my_string: str):
     s = Stack()
     index = 0
